@@ -1,11 +1,10 @@
 # NFT School
 
-[![](https://img.shields.io/badge/made%20by-Protocol%20Labs-blue.svg)](https://protocol.ai)
-[![](https://img.shields.io/badge/platform-VuePress-green.svg)](https://vuepress.vuejs.org/)
-[![](https://img.shields.io/badge/deployed%20on-Fleek-ff69b4.svg)](http://fleek.co/)
+[![image1](https://img.shields.io/badge/made%20by-Protocol%20Labs-blue.svg)](https://protocol.ai)
+[![image2](https://img.shields.io/badge/platform-VuePress-green.svg)](https://vuepress.vuejs.org/)
+[![image3](https://img.shields.io/badge/deployed%20on-Fleek-ff69b4.svg)](http://fleek.co/)
 
-
-This repository contains code and content for the [NFT School](https://nftschool.dev) website, an open-source community education platform devoted to best practices, concept guides, tutorials, and how-tos for developers in the non-fungible token (NFT) space. 
+This repository contains code and content for the [NFT School](https://nftschool.dev) website, an open-source community education platform devoted to best practices, concept guides, tutorials, and how-tos for developers in the non-fungible token (NFT) space.
 
 **Contributions are more than welcome!** As an open-source project, this site relies on people like you to suggest, create, and improve content to make the NFT developer experience better for everyone. To get started ...
 
@@ -48,7 +47,7 @@ To build a local copy, run the following:
 
 Once you're happy with your local changes, please make a PR **against the `main` branch**. Including detailed notes on your PR - particularly screenshots to depict any changes in UI - will help speed up approval and deployment.
 
-All PRs against `main` automatically generate Fleek previews to make it easier to "check your work". You can view your PR's preview by clicking `Details` in the `fleek/build` check at the bottom of your PR page:<br/>
+All PRs against `main` automatically generate Fleek previews to make it easier to "check your work". You can view your PR's preview by clicking `Details` in the `fleek/build` check at the bottom of your PR page:
 ![image](https://user-images.githubusercontent.com/1507828/110034382-9dbb5b80-7cf7-11eb-89a4-7772970677d3.png)
 
 A reviewer will be by shortly to have a look!
